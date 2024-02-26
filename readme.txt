@@ -1,0 +1,1 @@
+proyecto desarrollad en python en 2021 por proyecto de universidad, le proyecto usa transformadas de fourier para quitar el "ruido " del audio en nuestra computadora.
